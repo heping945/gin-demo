@@ -1,0 +1,33 @@
+captcha:
+  key-long: 6
+  img-width: 120
+  img-height: 40
+casbin:
+  model-path: ./rbac_model.conf
+jwt:
+  signing-key: zhp
+log:
+  prefix: '[GO-EXAMPLE]'
+  log-file: true
+  stdout: DEBUG
+  file: DEBUG
+mysql:
+  username: root
+  password: "123"
+  db-name: gin-demo
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  log-mode: false
+redis:
+  addr: 127.0.0.1:6379
+  password: ""
+  db: 0
+system:
+  use-multipoint: false
+  env: debug
+  addr: 9518
+  db-type: mysql
+  read-timeout: 10000000000
+  write-timeout: 10000000000
+
+# debug/release/test
+

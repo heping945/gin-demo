@@ -1,0 +1,101 @@
+[GO-EXAMPLE]2020/08/29 - 15:43:57.400 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 15:43:57.402 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 15:43:57.402 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 15:43:57.402 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:3123
+[GO-EXAMPLE]2020/08/29 - 15:45:02.164 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 15:45:02.166 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 15:45:02.167 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 15:45:02.167 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:3123
+[GO-EXAMPLE]2020/08/29 - 15:45:24.988 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 15:45:24.989 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 15:45:24.989 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 15:45:24.989 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:3123
+[GO-EXAMPLE]2020/08/29 - 16:01:14.002 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:01:14.004 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 16:01:14.004 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:01:14.005 D:/GoModProject/gin-demo/main.go:21 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:3123
+[GO-EXAMPLE]2020/08/29 - 16:04:06.149 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:04:06.150 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 16:04:06.150 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:04:06.152 D:/GoModProject/gin-demo/main.go:39 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:3123
+[GO-EXAMPLE]2020/08/29 - 16:07:03.990 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:07:03.992 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 16:07:03.992 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:07:03.993 D:/GoModProject/gin-demo/main.go:39 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 16:08:10.328 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:08:10.330 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 16:08:10.330 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:08:10.331 D:/GoModProject/gin-demo/main.go:37 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 16:09:18.399 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:09:18.401 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在release环境
+[GO-EXAMPLE]2020/08/29 - 16:09:18.401 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:09:18.401 D:/GoModProject/gin-demo/main.go:37 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 16:13:58.665 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:13:58.667 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/29 - 16:13:58.667 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:13:58.667 D:/GoModProject/gin-demo/main.go:37 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 16:14:33.865 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 16:14:33.867 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/29 - 16:14:33.867 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 16:14:33.867 D:/GoModProject/gin-demo/main.go:37 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 22:41:13.306 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 22:41:13.311 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/29 - 22:41:13.311 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/29 - 22:41:13.311 D:/GoModProject/gin-demo/main.go:37 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 22:41:38.297 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/29 - 22:41:38.299 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/29 - 22:41:38.299 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/29 - 22:41:38.299 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 01:47:34.148 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 01:47:34.150 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 01:47:34.150 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 01:47:34.150 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 01:48:04.974 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 01:48:04.976 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 01:48:04.976 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 01:48:04.976 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:01:35.411 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:01:35.413 D:/GoModProject/gin-demo/main.go:19 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:01:35.413 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:01:35.413 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:04:07.693 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:04:07.695 D:/GoModProject/gin-demo/main.go:25 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:04:07.695 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:04:07.696 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:06:21.602 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:06:21.604 D:/GoModProject/gin-demo/main.go:22 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:06:21.605 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:06:21.605 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:09:10.470 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:09:10.472 D:/GoModProject/gin-demo/main.go:21 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:09:10.472 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:09:10.472 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:11:08.648 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:11:08.649 D:/GoModProject/gin-demo/main.go:20 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:11:08.650 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:11:08.650 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:21:43.891 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:21:43.892 D:/GoModProject/gin-demo/main.go:20 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:21:43.892 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:21:43.892 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:23:42.147 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:23:42.149 D:/GoModProject/gin-demo/main.go:20 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:23:42.149 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:23:42.149 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:23:59.814 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:23:59.816 D:/GoModProject/gin-demo/main.go:20 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:23:59.816 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:23:59.816 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:24:16.779 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:24:16.780 D:/GoModProject/gin-demo/main.go:20 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:24:16.780 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:24:16.780 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:24:16.780 D:/GoModProject/gin-demo/main.go:22 ▶ [CRITIC] 初始化验证翻译器失败
+[GO-EXAMPLE]2020/08/30 - 02:26:12.746 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:26:12.747 D:/GoModProject/gin-demo/main.go:20 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:26:12.748 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:26:12.748 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
+[GO-EXAMPLE]2020/08/30 - 02:27:43.421 D:/GoModProject/gin-demo/initialize/db_table.go:15 ▶ [DEBUG] register table success
+[GO-EXAMPLE]2020/08/30 - 02:27:43.423 D:/GoModProject/gin-demo/main.go:18 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GO-EXAMPLE]2020/08/30 - 02:27:43.423 D:/GoModProject/gin-demo/initialize/router.go:13 ▶ [DEBUG] 当前是在debug环境
+[GO-EXAMPLE]2020/08/30 - 02:27:43.423 D:/GoModProject/gin-demo/initialize/router.go:16 ▶ [DEBUG] 启动了cors中间件
