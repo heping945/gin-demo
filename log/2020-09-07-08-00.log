@@ -1,0 +1,37 @@
+[GIN-EXAMPLE]2020/09/07 - 18:37:54.657 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 18:47:44.783 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 18:48:35.490 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 18:49:38.381 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 19:04:27.768 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 19:05:10.577 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 19:05:10.704 D:/GoModProject/gin-demo/initialize/migrate.go:18 ▶ [DEBUG] register table success
+[GIN-EXAMPLE]2020/09/07 - 19:05:10.704 D:/GoModProject/gin-demo/main.go:15 ▶ [DEBUG] 当前是在debug环境
+[GIN-EXAMPLE]2020/09/07 - 19:05:10.704 D:/GoModProject/gin-demo/main.go:24 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GIN-EXAMPLE]2020/09/07 - 19:05:10.704 D:/GoModProject/gin-demo/initialize/router.go:14 ▶ [DEBUG] 启动了cors中间件
+[GIN-EXAMPLE]2020/09/07 - 19:05:42.613 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 19:05:42.966 D:/GoModProject/gin-demo/initialize/migrate.go:18 ▶ [DEBUG] register table success
+[GIN-EXAMPLE]2020/09/07 - 19:05:42.966 D:/GoModProject/gin-demo/main.go:15 ▶ [DEBUG] 当前是在debug环境
+[GIN-EXAMPLE]2020/09/07 - 19:05:42.966 D:/GoModProject/gin-demo/main.go:24 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GIN-EXAMPLE]2020/09/07 - 19:05:42.966 D:/GoModProject/gin-demo/initialize/router.go:14 ▶ [DEBUG] 启动了cors中间件
+[GIN-EXAMPLE]2020/09/07 - 21:02:32.051 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 21:02:32.200 D:/GoModProject/gin-demo/initialize/migrate.go:18 ▶ [DEBUG] register table success
+[GIN-EXAMPLE]2020/09/07 - 21:02:32.200 D:/GoModProject/gin-demo/main.go:15 ▶ [DEBUG] 当前是在debug环境
+[GIN-EXAMPLE]2020/09/07 - 21:02:32.200 D:/GoModProject/gin-demo/main.go:24 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GIN-EXAMPLE]2020/09/07 - 21:02:32.200 D:/GoModProject/gin-demo/initialize/router.go:14 ▶ [DEBUG] 启动了cors中间件
+[GIN-EXAMPLE]2020/09/07 - 21:03:58.917 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 21:03:59.329 D:/GoModProject/gin-demo/initialize/migrate.go:18 ▶ [DEBUG] register table success
+[GIN-EXAMPLE]2020/09/07 - 21:03:59.330 D:/GoModProject/gin-demo/main.go:15 ▶ [DEBUG] 当前是在debug环境
+[GIN-EXAMPLE]2020/09/07 - 21:03:59.330 D:/GoModProject/gin-demo/main.go:24 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GIN-EXAMPLE]2020/09/07 - 21:03:59.330 D:/GoModProject/gin-demo/initialize/router.go:14 ▶ [DEBUG] 启动了cors中间件
+[GIN-EXAMPLE]2020/09/07 - 23:29:59.427 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/07 - 23:29:59.576 D:/GoModProject/gin-demo/initialize/migrate.go:18 ▶ [DEBUG] register table success
+[GIN-EXAMPLE]2020/09/07 - 23:29:59.577 D:/GoModProject/gin-demo/main.go:15 ▶ [DEBUG] 当前是在debug环境
+[GIN-EXAMPLE]2020/09/07 - 23:29:59.577 D:/GoModProject/gin-demo/main.go:24 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GIN-EXAMPLE]2020/09/07 - 23:29:59.577 D:/GoModProject/gin-demo/initialize/router.go:14 ▶ [DEBUG] 启动了cors中间件
+[GIN-EXAMPLE]2020/09/08 - 00:37:33.251 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/08 - 00:38:02.970 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/08 - 00:38:30.802 D:/GoModProject/gin-demo/initialize/redis.go:22 ▶ [INFO] redis connect ping response: PONG
+[GIN-EXAMPLE]2020/09/08 - 00:38:30.871 D:/GoModProject/gin-demo/initialize/migrate.go:18 ▶ [DEBUG] register table success
+[GIN-EXAMPLE]2020/09/08 - 00:38:30.871 D:/GoModProject/gin-demo/main.go:15 ▶ [DEBUG] 当前是在debug环境
+[GIN-EXAMPLE]2020/09/08 - 00:38:30.871 D:/GoModProject/gin-demo/main.go:24 ▶ [DEBUG] 本机运行地址：http://127.0.0.1:9518
+[GIN-EXAMPLE]2020/09/08 - 00:38:30.871 D:/GoModProject/gin-demo/initialize/router.go:14 ▶ [DEBUG] 启动了cors中间件

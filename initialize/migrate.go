@@ -10,6 +10,9 @@ func MigrateTables() {
 	db.SingularTable(true) //禁用复数
 	db.Debug().AutoMigrate(
 		dao.User{},
+		dao.Category{},
+		dao.Tag{},
+		dao.Post{},
 	)
 	global.GVA_LOG.Debug("register table success")
 }

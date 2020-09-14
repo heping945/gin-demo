@@ -3,13 +3,14 @@ package global
 import "time"
 
 type Server struct {
-	Mysql   Mysql   `mapstructure:"mysql" json:"mysql" yaml:"mysql"`
-	Casbin  Casbin  `mapstructure:"casbin" json:"casbin" yaml:"casbin"`
-	Redis   Redis   `mapstructure:"redis" json:"redis" yaml:"redis"`
-	System  System  `mapstructure:"system" json:"system" yaml:"system"`
-	JWT     JWT     `mapstructure:"jwt" json:"jwt" yaml:"jwt"`
-	Captcha Captcha `mapstructure:"captcha" json:"captcha" yaml:"captcha"`
-	Log     Log     `mapstructure:"log" json:"log" yaml:"log"`
+	Mysql     Mysql     `mapstructure:"mysql" json:"mysql" yaml:"mysql"`
+	Casbin    Casbin    `mapstructure:"casbin" json:"casbin" yaml:"casbin"`
+	Redis     Redis     `mapstructure:"redis" json:"redis" yaml:"redis"`
+	System    System    `mapstructure:"system" json:"system" yaml:"system"`
+	AliYunOSS AliYunOSS `mapstructure:"aliyun_oss" json:"aliyun_oss" yaml:"aliyun_oss"`
+	JWT       JWT       `mapstructure:"jwt" json:"jwt" yaml:"jwt"`
+	Captcha   Captcha   `mapstructure:"captcha" json:"captcha" yaml:"captcha"`
+	Log       Log       `mapstructure:"log" json:"log" yaml:"log"`
 }
 
 type System struct {
@@ -19,6 +20,14 @@ type System struct {
 	DbType        string        `mapstructure:"db-type" json:"dbType" yaml:"db-type"`
 	ReadTimeout   time.Duration `mapstructure:"read-timeout" json:"ReadTimeout" yaml:"read-timeout"`
 	WriteTimeout  time.Duration `mapstructure:"write-timeout" json:"WriteTimeout" yaml:"write-timeout"`
+}
+
+type AliYunOSS struct {
+	Endpoint        string `json:"endpoint" mapstructure:"endpoint" `
+	AccessKeyID     string `json:"access_key_id" mapstructure:"access_key_id" `
+	Domain          string `json:"domain" mapstructure:"domain" `
+	AccessKeySecret string `json:"access_key_secret" mapstructure:"access_key_secret" `
+	BucketName      string `json:"bucket_name" mapstructure:"bucket_name" `
 }
 
 type JWT struct {

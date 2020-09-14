@@ -10,7 +10,6 @@ import (
 	"gin-demo/utils"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
-	"github.com/satori/go.uuid"
 	"time"
 )
 
@@ -22,10 +21,9 @@ func Register(user *dao.User, c *gin.Context) {
 		response.Fail("用户已注册", c)
 	} else {
 		// 否则 附加uuid 密码md5简单加密 注册
-		user.Password = utils.MD5V([]byte(user.Password))
-		user.UUID = uuid.NewV4()
+
 		if err := global.GVA_DB.Create(&user).Error; err != nil {
-			response.Fail("注册用户数据失败", c)
+			response.Fail("注册用户失败", c)
 		} else {
 			//	注册成功
 			response.OkDetailed(user, "创建用户成功", c)
@@ -37,7 +35,7 @@ func Login(user *dao.User, c *gin.Context) {
 	user.Password = utils.MD5V([]byte(user.Password))
 	notFound := global.GVA_DB.Where("username = ? AND password = ?", user.Username, user.Password).First(&user).RecordNotFound()
 	if notFound {
-		response.Fail("账户或密码错误", c)
+		response.FailWithMessage("登录失败", "账户或密码错误", c)
 	} else {
 		tokenNext(*user, c)
 	}
@@ -60,7 +58,7 @@ func tokenNext(user dao.User, c *gin.Context) {
 	}
 	token, err := j.CreateToken(clams)
 	if err != nil {
-		response.Fail("获取token失败", c)
+		response.FailWithMessage("登录失败", "获取token失败", c)
 		return
 	}
 
